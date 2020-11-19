@@ -1,3 +1,8 @@
+---
+title:  "Welcome to Internet Paradox"
+layout: post
+---
+
 Let's go back in time to 1998. I see that a paper was published about a phenomenon called Internet Paradox. 
 I am curious to read it, but first I can't open it because my dial-up internet access with around 56kbps download speed does not allow me to download. 
 If it magically does, it is definite that the paper won't be on Google Scholar, Semantic Scholar etc., because the concept of content-sharing is not common yet. 
