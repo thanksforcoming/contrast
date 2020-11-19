@@ -1,3 +1,9 @@
+---
+title:  "Welcome back to Internet Paradox"
+layout: post
+---
+
+
 I finally read the paper about Internet Paradox. One important thing that I noticed is that the word "paradox" has been used twice in the context, (one is in the title).The meaning of Internet Paradox in the paper is explained as follows: 
 Even though the internet is a social technology and we use it to communicate, it decreases the social interaction and causes our depression. 
 This is their claim, not mine. I am very happy with my unsocial-social online imaginary friends. 
