@@ -51,4 +51,4 @@ This point makes me think about the differences between social media and real wo
 
 
 Source:
-1. [Critique of the MBTI]{https://www.recruiter.com/i/critique-of-the-myers-briggs-type-indicator-critique/}
+1. [Critique of the MBTI](https://www.recruiter.com/i/critique-of-the-myers-briggs-type-indicator-critique/)
